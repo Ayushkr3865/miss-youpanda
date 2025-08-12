@@ -46,7 +46,7 @@ export default function WelcomeScreen({ onNext, ...motionProps }) {
                         whileHover={{ scale: 1.02 }}
                         whileTap={{ scale: 0.98 }}
                     >
-                        <span className="relative z-10">Open My Heart 💕</span>
+                        <span className="relative z-10">Lets See 💕</span>
                     </motion.button>
                 </motion.div>
             </div>

@@ -9,7 +9,7 @@ export default function FinalScreen({ ...motionProps }) {
     const [isTyping, setIsTyping] = useState(true)
 
     const finalMessage =
-        "Even miles apart, you're all I think about. Every second without you feels incomplete. I miss your smile, your laugh, your voice — everything. You are my peace in this noisy world. No matter the distance, you'll always live in my heart. I can't wait for the day I hold you again. Until then, just know... I miss you more than words can ever say🌙💕"
+      "Even miles apart, you're all I think about. Every second without you feels incomplete. I miss your smile(special tha haa), your laugh, your voice — everything. You are my peace in this noisy world. No matter the distance, you'll always live in my mind. I can't wait for the day I met you again. Until then,enjoy and just know... I miss you more than words can ever say(but apnai kya hai apnai to message bhi nahi karna busy log kyu hi karenge message)..just enjoy your vacation and come fast till then Byy or teeth ka treatment karai.. theek hai ab teeth?...🌙💕";
 
     useEffect(() => {
         const timer = setTimeout(() => {
@@ -42,7 +42,7 @@ export default function FinalScreen({ ...motionProps }) {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.5 }}
                 >
-                    Forever Yours
+                    Forever Yours, good listeners 
                 </motion.h2>
 
                 <motion.div
