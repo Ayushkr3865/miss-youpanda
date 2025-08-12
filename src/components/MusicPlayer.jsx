@@ -19,7 +19,7 @@ export default function MusicPlayer({ musicPlaying }) {
     return (
         <div>
             <audio ref={audioRef} loop>
-                <source src="/audio/video.mp3" type="audio/mpeg" />
+                <source src="/audio/video1.mp3" type="audio/mpeg" />
             </audio>
         </div>
     )
